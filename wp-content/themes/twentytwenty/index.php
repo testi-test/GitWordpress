@@ -17,6 +17,8 @@
 get_header();
 ?>
 
+<!-- Testing the update -->
+
 <main id="site-content" role="main">
 
 	<?php
