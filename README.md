@@ -1,2 +1,4 @@
 # GitWordpress
 GitWordpress
+
+Hi, Global!
