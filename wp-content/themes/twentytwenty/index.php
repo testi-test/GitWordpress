@@ -16,8 +16,6 @@
 
 get_header();
 ?>
-dfdfgdgf
-<!-- dsfsdf -->
 
 <main id="site-content" role="main">
 
